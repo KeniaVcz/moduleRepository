@@ -1,4 +1,4 @@
-import 'package:moduleReposiory/global/presentation/screens/working_capital_home_screen.dart';
+import 'package:moduleReposiory/global/presentation/screens/home_screen.dart';
 
 
 class WorkingCapitalModule extends Module {
