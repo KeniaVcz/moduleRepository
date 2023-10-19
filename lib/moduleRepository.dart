@@ -1,4 +1,4 @@
-library nombre_del_modulo;
+library moduleRepository;
 
 /// A Calculator.
 class Calculator {
