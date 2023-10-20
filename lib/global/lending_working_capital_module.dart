@@ -2,7 +2,7 @@
 import 'package:flutter_modular/flutter_modular.dart';
 import 'package:module_repository/global/binds/bind_global.dart';
 import 'package:module_repository/global/presentation/cubit/working_capital_cubit.dart';
-import 'package:module_repository/global/presentation/screens/example_public_screen.dart';
+import 'package:module_repository/global/presentation/screens/my_home_page.dart';
 import 'package:module_repository/global/routers/working_capital_routers.dart';
 
 class WorkingCapitalModule extends Module {
