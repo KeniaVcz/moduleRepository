@@ -1,3 +1,3 @@
-library moduleRepository;
+library module_repository;
 
-export 'package:moduleRepository/global/calculator.dart';
+export 'package:module_repository/global/calculator.dart';
