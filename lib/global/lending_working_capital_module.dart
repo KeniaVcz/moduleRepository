@@ -18,7 +18,7 @@ class WorkingCapitalModule extends Module {
   List<ModularRoute> get routes => [
         ChildRoute(
           '/home',
-          child: (_, args) => const WorkingCapitalExamplePublicScreen(),
+          child: (_, args) => const MyHomePage(title: 'Hey',),
         )
       ];
 }
