@@ -1,1 +1,1 @@
-export 'package:module_repository/global/routers/working_capital_routers.dart';
+export 'package:lending_b2b_frontend/global/routers/working_capital_routers.dart';
